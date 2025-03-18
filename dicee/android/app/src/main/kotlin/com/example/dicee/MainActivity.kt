@@ -1,4 +1,4 @@
-package com.example.xylophone
+package com.example.dicee
 
 import io.flutter.embedding.android.FlutterActivity
 

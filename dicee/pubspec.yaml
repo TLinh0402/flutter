@@ -1,4 +1,4 @@
-name: xylophone
+name: dicee
 description: A new Flutter project.
 publish_to: 'none'
 
@@ -11,20 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.8
-  # english_words: ^4.0.0
-  audioplayers: ^6.4.0
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0
 
-
 flutter:
   uses-material-design: true
   assets:
-   - assets/
+   - images/
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
